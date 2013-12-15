@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<div xmlns:field="urn:jsptagdir:/WEB-INF/tags/form/fields" xmlns:jsp="http://java.sun.com/JSP/Page" xmlns:page="urn:jsptagdir:/WEB-INF/tags/form" version="2.0">
+    <jsp:directive.page contentType="text/html;charset=UTF-8"/>
+    <jsp:output omit-xml-declaration="yes"/>
+    <page:show id="ps_com_knowprocess_rootest_model_Foo" object="${foo}" path="/foos" z="5lWTvrN9TPWKuKtznCmzdiL/X5M=">
+        <field:display field="f1" id="s_com_knowprocess_rootest_model_Foo_f1" object="${foo}" z="zyAobwZNZMZde9kD6w9dhLCIbJc="/>
+        <field:display field="f2" id="s_com_knowprocess_rootest_model_Foo_f2" object="${foo}" z="5UYF1SJRqKHPPkolHHe0f5sAsuY="/>
+        <field:display date="true" dateTimePattern="${foo_datefield_date_format}" field="dateField" id="s_com_knowprocess_rootest_model_Foo_dateField" object="${foo}" z="qcRzrwAI0PoeFZCgd1KHfdkfKR8="/>
+        <field:display field="boolField" id="s_com_knowprocess_rootest_model_Foo_boolField" object="${foo}" z="fBI3tLROqmmm+0W5uRPOkggBwlE="/>
+        <field:display field="enumField" id="s_com_knowprocess_rootest_model_Foo_enumField" object="${foo}" z="0lRuktKhaYHFC+ZtYTWmgE+TDyo="/>
+        <field:display field="intField" id="s_com_knowprocess_rootest_model_Foo_intField" object="${foo}" z="zhHBd5Ru93fGXnewGPJC62l+D70="/>
+        <field:display field="floatField" id="s_com_knowprocess_rootest_model_Foo_floatField" object="${foo}" z="NEEkZvWI8Ee7w4/MIipoOeyBtLQ="/>
+        <field:display field="multiEnumField" id="s_com_knowprocess_rootest_model_Foo_multiEnumField" object="${foo}" z="CWQycUIX6bSjKa8GyyGeFSnQuz8="/>
+        <field:display field="lobField" id="s_com_knowprocess_rootest_model_Foo_lobField" object="${foo}" z="pYBGHAhpeT6rZcC9MpbpprgZ88E="/>
+    </page:show>
+</div>
