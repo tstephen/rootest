@@ -1,0 +1,5 @@
+project --topLevelPackage com.knowprocess.rootest
+jpa setup --provider ECLIPSELINK --database MYSQL --userName roo --password roo 
+jpa setup --provider ECLIPSELINK --database H2_IN_MEMORY
+
+

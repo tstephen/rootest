@@ -1,0 +1,5 @@
+json all 
+web mvc setup 
+web mvc all --package ~.web
+web mvc finder all
+web mvc json all 
