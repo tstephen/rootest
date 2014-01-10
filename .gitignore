@@ -43,3 +43,4 @@ target/test-classes/META-INF/aop-ajc.xml
 /target
 /.springBeans
 /.DS_Store
+/pom.xml
